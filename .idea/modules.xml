@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.xianyu-server.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.xianyu-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.xianyu-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.xianyu-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.xianyu-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.xianyu-server.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+spring:
+  thymeleaf:
+    cache: false
+    prefix: classpath:templates/
+    suffix: .html
+    mode: HTML
+    servlet:
+      content-type: text/html
+    encoding: UTF-8
+  profiles:
+    active: dev
+debug: true
+logging:
+  config: classpath:logback-config.xml
+  level:
+    org:
+      springframework:
+        boot: info
+        web: info
+
