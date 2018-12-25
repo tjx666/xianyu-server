@@ -9,7 +9,8 @@ spring:
     encoding: UTF-8
   profiles:
     active: dev
-debug: true
+
+# 日志配置
 logging:
   config: classpath:logback-config.xml
   level:
@@ -17,4 +18,8 @@ logging:
       springframework:
         boot: info
         web: info
+# 设置debug: true 就可以在启动程序使用 --debug 设置日志级别了
+debug: true
+
+
 

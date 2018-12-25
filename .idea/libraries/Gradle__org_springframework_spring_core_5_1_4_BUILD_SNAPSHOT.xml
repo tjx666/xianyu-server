@@ -6,6 +6,7 @@
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.4.BUILD-SNAPSHOT/379cfe77cab4aa12aa8f1a635884deba78122dcf/spring-core-5.1.4.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.4.BUILD-SNAPSHOT/153a1b187a137a09d12967c43a8787508706f192/spring-core-5.1.4.BUILD-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
