@@ -1,5 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: mysql:mysql-connector-java:8.0.13">
+    <ANNOTATIONS>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-annotations.jar!/" />
+    </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.13/28015319e44ff50a8fee655e725fefc4990abeb1/mysql-connector-java-8.0.13.jar!/" />
     </CLASSES>

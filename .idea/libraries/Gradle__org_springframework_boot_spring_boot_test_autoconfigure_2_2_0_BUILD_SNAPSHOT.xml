@@ -1,7 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: org.springframework.boot:spring-boot-test-autoconfigure:2.2.0.BUILD-SNAPSHOT">
     <ANNOTATIONS>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.1.RELEASE/spring-boot-2.1.1.RELEASE-annotations.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.3.RELEASE/spring-core-5.1.3.RELEASE-annotations.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.1.3.RELEASE/spring-jcl-5.1.3.RELEASE-annotations.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.3.RELEASE/spring-context-5.1.3.RELEASE-annotations.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.3.RELEASE/spring-aop-5.1.3.RELEASE-annotations.jar!/" />
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE-annotations.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.1.3.RELEASE/spring-expression-5.1.3.RELEASE-annotations.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.1.RELEASE/spring-boot-autoconfigure-2.1.1.RELEASE-annotations.jar!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test-autoconfigure/2.2.0.BUILD-SNAPSHOT/397acb71741e0a7d7a1a5b538ce81851ddc2b41f/spring-boot-test-autoconfigure-2.2.0.BUILD-SNAPSHOT.jar!/" />

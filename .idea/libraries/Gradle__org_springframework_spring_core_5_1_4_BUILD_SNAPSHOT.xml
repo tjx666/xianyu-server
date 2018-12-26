@@ -1,5 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: org.springframework:spring-core:5.1.4.BUILD-SNAPSHOT">
+    <ANNOTATIONS>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.1.3.RELEASE/spring-jcl-5.1.3.RELEASE-annotations.jar!/" />
+    </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.4.BUILD-SNAPSHOT/783d8dcf8b57c3cc2b9aad96758d2d16c5d18a47/spring-core-5.1.4.BUILD-SNAPSHOT.jar!/" />
     </CLASSES>

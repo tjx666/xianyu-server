@@ -1,0 +1,3 @@
+2018-12-25 16:05:16,276 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 34232 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-25 16:05:16,278 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-25 16:05:18,802 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 3.204 seconds (JVM running for 4.512)

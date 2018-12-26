@@ -1,25 +1,3 @@
 spring:
-  thymeleaf:
-    cache: false
-    prefix: classpath:templates/
-    suffix: .html
-    mode: HTML
-    servlet:
-      content-type: text/html
-    encoding: UTF-8
-  profiles:
-    active: dev
-
-# 日志配置
-logging:
-  config: classpath:logback-config.xml
-  level:
-    org:
-      springframework:
-        boot: info
-        web: info
-# 设置debug: true 就可以在启动程序使用 --debug 设置日志级别了
-debug: true
-
-
-
+    profiles:
+        active: dev
