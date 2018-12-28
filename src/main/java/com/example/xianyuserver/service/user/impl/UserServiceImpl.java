@@ -1,6 +1,7 @@
 package com.example.xianyuserver.service.user.impl;
 
 import com.example.xianyuserver.dao.UserDao;
+import com.example.xianyuserver.dto.LoginInfoDto;
 import com.example.xianyuserver.dto.RegisterUserDto;
 import com.example.xianyuserver.entity.User;
 import com.example.xianyuserver.service.user.UserService;
@@ -49,3 +50,4 @@ public class UserServiceImpl implements UserService {
         return true;
     }
 }
+

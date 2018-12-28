@@ -1,5 +1,6 @@
 package com.example.xianyuserver.service.user;
 
+import com.example.xianyuserver.dto.LoginInfoDto;
 import com.example.xianyuserver.dto.RegisterUserDto;
 import com.example.xianyuserver.entity.User;
 import org.springframework.stereotype.Service;

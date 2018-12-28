@@ -147,3 +147,71 @@
 2018-12-28 16:19:17,070 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
 2018-12-28 16:19:17,070 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
 2018-12-28 16:19:17,866 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.828 seconds (JVM running for 1934.083)
+2018-12-28 16:20:28,945 [http-nio-8080-exec-8] DEBUG c.e.xianyuserver.dao.UserDao.insert 159 - ==>  Preparing: insert into user (id, name, password) VALUES (?, ?, ?); 
+2018-12-28 16:20:28,987 [http-nio-8080-exec-8] DEBUG c.e.xianyuserver.dao.UserDao.insert 159 - ==> Parameters: 201726204030(String), lyr(String), 3344(String)
+2018-12-28 16:20:29,010 [http-nio-8080-exec-8] DEBUG c.e.xianyuserver.dao.UserDao.insert 159 - <==    Updates: 1
+2018-12-28 16:20:29,012 [http-nio-8080-exec-8] DEBUG c.e.x.s.user.impl.UserServiceImpl 47 - The insert return's integer is 1
+2018-12-28 17:32:09,274 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 10212 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 17:32:09,274 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 17:32:09,274 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 17:32:14,050 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 4.826 seconds (JVM running for 6310.278)
+2018-12-28 18:08:23,641 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 10212 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 18:08:23,641 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 18:08:23,642 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 18:08:24,566 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.959 seconds (JVM running for 8480.794)
+2018-12-28 18:08:57,667 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 10212 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 18:08:57,667 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 18:08:57,668 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 18:08:58,301 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.665 seconds (JVM running for 8514.529)
+2018-12-28 18:11:52,382 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 4676 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 18:11:52,394 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 18:11:52,395 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 18:11:55,943 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 4.125 seconds (JVM running for 5.445)
+2018-12-28 18:13:20,340 [http-nio-8080-exec-2] DEBUG c.e.xianyuserver.dao.UserDao.insert 159 - ==>  Preparing: insert into user (id, name, password) VALUES (?, ?, ?); 
+2018-12-28 18:13:20,371 [http-nio-8080-exec-2] DEBUG c.e.xianyuserver.dao.UserDao.insert 159 - ==> Parameters: t(String), null, t(String)
+2018-12-28 18:13:20,404 [http-nio-8080-exec-2] DEBUG c.e.xianyuserver.dao.UserDao.insert 159 - <==    Updates: 1
+2018-12-28 18:13:20,405 [http-nio-8080-exec-2] DEBUG c.e.x.s.user.impl.UserServiceImpl 47 - The insert return's integer is 1
+2018-12-28 20:08:21,822 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 31992 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 20:08:21,868 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 20:08:21,868 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 20:08:27,977 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 7.485 seconds (JVM running for 9.721)
+2018-12-28 20:10:02,572 [http-nio-8080-exec-1] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==>  Preparing: select * from user where id=? 
+2018-12-28 20:10:02,601 [http-nio-8080-exec-1] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==> Parameters: t(String)
+2018-12-28 20:10:02,629 [http-nio-8080-exec-1] DEBUG c.e.x.dao.UserDao.findUserById 159 - <==      Total: 1
+2018-12-28 20:11:14,615 [http-nio-8080-exec-3] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==>  Preparing: select * from user where id=? 
+2018-12-28 20:11:14,616 [http-nio-8080-exec-3] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==> Parameters: t(String)
+2018-12-28 20:11:14,621 [http-nio-8080-exec-3] DEBUG c.e.x.dao.UserDao.findUserById 159 - <==      Total: 1
+2018-12-28 20:11:17,729 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 31992 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 20:11:17,729 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 20:11:17,729 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 20:11:18,422 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.744 seconds (JVM running for 180.165)
+2018-12-28 20:11:40,802 [http-nio-8080-exec-1] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==>  Preparing: select * from user where id=? 
+2018-12-28 20:11:40,803 [http-nio-8080-exec-1] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==> Parameters: t(String)
+2018-12-28 20:11:40,811 [http-nio-8080-exec-1] DEBUG c.e.x.dao.UserDao.findUserById 159 - <==      Total: 1
+2018-12-28 20:14:23,881 [http-nio-8080-exec-4] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==>  Preparing: select * from user where id=? 
+2018-12-28 20:14:23,882 [http-nio-8080-exec-4] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==> Parameters: null
+2018-12-28 20:14:23,884 [http-nio-8080-exec-4] DEBUG c.e.x.dao.UserDao.findUserById 159 - <==      Total: 0
+2018-12-28 20:14:45,979 [http-nio-8080-exec-5] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==>  Preparing: select * from user where id=? 
+2018-12-28 20:14:45,980 [http-nio-8080-exec-5] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==> Parameters: null
+2018-12-28 20:14:45,981 [http-nio-8080-exec-5] DEBUG c.e.x.dao.UserDao.findUserById 159 - <==      Total: 0
+2018-12-28 20:14:47,360 [http-nio-8080-exec-6] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==>  Preparing: select * from user where id=? 
+2018-12-28 20:14:47,360 [http-nio-8080-exec-6] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==> Parameters: null
+2018-12-28 20:14:47,361 [http-nio-8080-exec-6] DEBUG c.e.x.dao.UserDao.findUserById 159 - <==      Total: 0
+2018-12-28 20:15:13,055 [http-nio-8080-exec-7] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==>  Preparing: select * from user where id=? 
+2018-12-28 20:15:13,055 [http-nio-8080-exec-7] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==> Parameters: null
+2018-12-28 20:15:13,057 [http-nio-8080-exec-7] DEBUG c.e.x.dao.UserDao.findUserById 159 - <==      Total: 0
+2018-12-28 20:15:47,194 [http-nio-8080-exec-8] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==>  Preparing: select * from user where id=? 
+2018-12-28 20:15:47,195 [http-nio-8080-exec-8] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==> Parameters: t(String)
+2018-12-28 20:15:47,199 [http-nio-8080-exec-8] DEBUG c.e.x.dao.UserDao.findUserById 159 - <==      Total: 1
+2018-12-28 20:15:58,199 [http-nio-8080-exec-9] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==>  Preparing: select * from user where id=? 
+2018-12-28 20:15:58,199 [http-nio-8080-exec-9] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==> Parameters: null
+2018-12-28 20:15:58,201 [http-nio-8080-exec-9] DEBUG c.e.x.dao.UserDao.findUserById 159 - <==      Total: 0
+2018-12-28 20:17:19,718 [http-nio-8080-exec-2] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==>  Preparing: select * from user where id=? 
+2018-12-28 20:17:19,718 [http-nio-8080-exec-2] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==> Parameters: t(String)
+2018-12-28 20:17:19,721 [http-nio-8080-exec-2] DEBUG c.e.x.dao.UserDao.findUserById 159 - <==      Total: 1
+2018-12-28 20:30:33,217 [http-nio-8080-exec-5] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==>  Preparing: select * from user where id=? 
+2018-12-28 20:30:33,217 [http-nio-8080-exec-5] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==> Parameters: t(String)
+2018-12-28 20:30:33,220 [http-nio-8080-exec-5] DEBUG c.e.x.dao.UserDao.findUserById 159 - <==      Total: 1
+2018-12-28 20:31:11,872 [http-nio-8080-exec-6] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==>  Preparing: select * from user where id=? 
+2018-12-28 20:31:11,873 [http-nio-8080-exec-6] DEBUG c.e.x.dao.UserDao.findUserById 159 - ==> Parameters: t(String)
+2018-12-28 20:31:11,876 [http-nio-8080-exec-6] DEBUG c.e.x.dao.UserDao.findUserById 159 - <==      Total: 1
