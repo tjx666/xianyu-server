@@ -19,11 +19,15 @@
 
 **user** 用户表
 
-![使用idea开发目录结构](https://github.com/tjx666/xianyu-server/blob/master/screenshot/user-table.png?raw=true)
+![](https://github.com/tjx666/xianyu-server/blob/master/screenshot/user-table.png?raw=true)
 
 **good** 宝贝或者是货物表
 
-![使用idea开发目录结构](https://github.com/tjx666/xianyu-server/blob/master/screenshot/good.png?raw=true)
+![商品表](https://github.com/tjx666/xianyu-server/blob/master/screenshot/good-table.png?raw=true)
 
 后期应该还有`message`(消息表)等
+
+## Restful风格的api
+
+![postman测试api](https://github.com/tjx666/xianyu-server/blob/master/screenshot/postman-api-test.png?raw=true)
 
