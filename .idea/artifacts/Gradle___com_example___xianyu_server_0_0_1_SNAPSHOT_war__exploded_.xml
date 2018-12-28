@@ -19,6 +19,7 @@
         <element id="directory" name="lib">
           <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-devtools:2.1.1.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-configuration-processor:2.1.1.RELEASE" />
+          <element id="library" level="project" name="Gradle: mysql:mysql-connector-java:8.0.13" />
           <element id="library" level="project" name="Gradle: com.github.pagehelper:pagehelper-spring-boot-starter:1.2.10" />
           <element id="library" level="project" name="Gradle: com.alibaba:druid-spring-boot-starter:1.1.10" />
           <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-web:2.2.0.BUILD-SNAPSHOT" />
@@ -43,17 +44,8 @@
           <element id="library" level="project" name="Gradle: org.slf4j:jul-to-slf4j:1.7.25" />
           <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.25" />
           <element id="library" level="project" name="Gradle: org.hibernate.validator:hibernate-validator:6.0.13.Final" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:5.1.4.BUILD-SNAPSHOT" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-web:5.1.4.BUILD-SNAPSHOT" />
           <element id="library" level="project" name="Gradle: org.mybatis:mybatis:3.4.6" />
           <element id="library" level="project" name="Gradle: org.mybatis:mybatis-spring:1.3.2" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-context:5.1.4.BUILD-SNAPSHOT" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:5.1.4.BUILD-SNAPSHOT" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-jdbc:5.1.4.BUILD-SNAPSHOT" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-tx:5.1.4.BUILD-SNAPSHOT" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:5.1.4.BUILD-SNAPSHOT" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:5.1.4.BUILD-SNAPSHOT" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-core:5.1.4.BUILD-SNAPSHOT" />
           <element id="library" level="project" name="Gradle: org.yaml:snakeyaml:1.23" />
           <element id="library" level="project" name="Gradle: com.github.jsqlparser:jsqlparser:1.2" />
           <element id="library" level="project" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.8" />
@@ -63,14 +55,22 @@
           <element id="library" level="project" name="Gradle: javax.validation:validation-api:2.0.1.Final" />
           <element id="library" level="project" name="Gradle: org.jboss.logging:jboss-logging:3.3.2.Final" />
           <element id="library" level="project" name="Gradle: com.fasterxml:classmate:1.4.0" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-jcl:5.1.4.BUILD-SNAPSHOT" />
           <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
           <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8" />
           <element id="library" level="project" name="Gradle: org.attoparser:attoparser:2.0.5.RELEASE" />
           <element id="library" level="project" name="Gradle: org.unbescape:unbescape:1.1.6.RELEASE" />
           <element id="library" level="project" name="Gradle: ch.qos.logback:logback-core:1.2.3" />
           <element id="library" level="project" name="Gradle: org.apache.logging.log4j:log4j-api:2.11.1" />
-          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.13/28015319e44ff50a8fee655e725fefc4990abeb1/mysql-connector-java-8.0.13.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.4.BUILD-SNAPSHOT/7199e50e1c56aed53dce2ab27c6a23485da1900/spring-webmvc-5.1.4.BUILD-SNAPSHOT.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.4.BUILD-SNAPSHOT/5764c8afa1bc7771e00f20890f5168e8f17e77ac/spring-web-5.1.4.BUILD-SNAPSHOT.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.4.BUILD-SNAPSHOT/f995edd26e28577c90928292ba00fcc71bf06d6/spring-context-5.1.4.BUILD-SNAPSHOT.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.1.4.BUILD-SNAPSHOT/a2754e8af8642c3e644879a3876b134147aa8568/spring-aop-5.1.4.BUILD-SNAPSHOT.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.1.4.BUILD-SNAPSHOT/d785983c9218810c397f70f3115473c9573ccc0d/spring-jdbc-5.1.4.BUILD-SNAPSHOT.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.4.BUILD-SNAPSHOT/47ba2b34a56dea0578972240799564902c0ddeeb/spring-tx-5.1.4.BUILD-SNAPSHOT.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.4.BUILD-SNAPSHOT/254b8cef9dbfb9f3ba0a9617ceedbc717646300d/spring-beans-5.1.4.BUILD-SNAPSHOT.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.1.4.BUILD-SNAPSHOT/8fe2ace3c4394ef4938f858c3ee334ceded9fbb8/spring-expression-5.1.4.BUILD-SNAPSHOT.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.4.BUILD-SNAPSHOT/c5a508fdb823e0e0698a351252f93203a2872854/spring-core-5.1.4.BUILD-SNAPSHOT.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.1.4.BUILD-SNAPSHOT/e410af7b0f1cf5055caad03b26f58ca3a73cc73b/spring-jcl-5.1.4.BUILD-SNAPSHOT.jar" />
         </element>
       </element>
     </root>

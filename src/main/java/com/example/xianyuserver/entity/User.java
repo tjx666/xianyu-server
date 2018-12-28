@@ -4,6 +4,7 @@ package com.example.xianyuserver.entity;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import lombok.ToString;
 import org.springframework.stereotype.Component;
 
 import java.sql.Date;
@@ -20,20 +21,20 @@ import java.sql.Date;
 @Getter
 @Setter
 @NoArgsConstructor
+@ToString
 @Component
 public class User {
-    public String id;
-    public String name;
-    public Boolean sex;
-    public Date birthday;
-    public String liveAddress;
-    public String receiveAddress;
-    public String industry;
-    public String college;
-    public String favourites;
-    
-    @Override
-    public String toString() {
-        return "abcde";
-    }
+    private String id;
+    private String name;
+    private Boolean sex;
+    private Date birthday;
+    private String liveAddress;
+    private String receiveAddress;
+    private String industry;
+    private String college;
+    private String favourites;
+    private String collectionGoodIds;
+    private String boughtGoodIds;
+    private String selfGoodIds;
+    private String password;
 }

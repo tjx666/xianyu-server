@@ -43,8 +43,10 @@ spring:
             pool-prepared-statements: false
             max-pool-prepared-statement-per-connection-size: 20
 mybatis:
-    mapper-locations: classpath:mapper/*.xml
+#    mapper-locations: classpath:mapper/*.xml
     type-aliases-package: com.example.xinayuserver.entity
+    configuration:
+        map-underscore-to-camel-case: true
 
 
 #pagehelper

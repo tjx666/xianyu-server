@@ -1,13 +1,18 @@
 package com.example.xianyuserver.service.user;
 
+import com.example.xianyuserver.dto.RegisterUserDto;
 import com.example.xianyuserver.entity.User;
 import org.springframework.stereotype.Service;
 
-/**
+import java.util.List;
+
+/*
  * @author YuTengjing
  */
+
 @Service
 public interface UserService {
-    public String getUserList();
-    public User getUserById(String id);
+    List<User> getUserList();
+    User getUserById(String id);
+    boolean registerNewUser(RegisterUserDto newUser);
 }

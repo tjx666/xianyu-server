@@ -5,12 +5,13 @@
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.1.3.RELEASE/spring-jcl-5.1.3.RELEASE-annotations.jar!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.4.BUILD-SNAPSHOT/12f52d733c7e273b9b71eeb6c4a4960cd358a7b4/spring-beans-5.1.4.BUILD-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.4.BUILD-SNAPSHOT/254b8cef9dbfb9f3ba0a9617ceedbc717646300d/spring-beans-5.1.4.BUILD-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.4.BUILD-SNAPSHOT/3c0ea456a0783a966ef0102556cc7abb161a406c/spring-beans-5.1.4.BUILD-SNAPSHOT-sources.jar!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.4.BUILD-SNAPSHOT/281d68d96adc8aa769d0b45f74d355d078455bf6/spring-beans-5.1.4.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.4.BUILD-SNAPSHOT/7a324770325ca1ce51b7e979bb5337b84eb91bd9/spring-beans-5.1.4.BUILD-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,3 +1,1 @@
-2018-12-26 23:30:34,177 [http-nio-8080-exec-1] ERROR c.e.x.u.GlobalDefaultExceptionHandler 30 - Exception happen! code: 444, msg: 测试异常
-2018-12-26 23:32:29,873 [http-nio-8080-exec-2] ERROR c.e.x.u.GlobalDefaultExceptionHandler 30 - Exception happen! code: 444, msg: 测试异常
-2018-12-26 23:32:33,705 [http-nio-8080-exec-1] ERROR c.e.x.u.GlobalDefaultExceptionHandler 30 - Exception happen! code: 444, msg: 测试异常
+2018-12-28 14:39:45,066 [http-nio-8080-exec-1] ERROR c.e.x.u.GlobalDefaultExceptionHandler 30 - Exception happen! code: 444, msg: 测试异常

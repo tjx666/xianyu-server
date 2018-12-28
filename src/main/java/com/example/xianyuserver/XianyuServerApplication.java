@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-@MapperScan("com.example.xianyuserver.dao")
 public class XianyuServerApplication {
     public static void main(String[] args) {
         SpringApplication.run(XianyuServerApplication.class, args);

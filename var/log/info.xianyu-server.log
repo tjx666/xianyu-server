@@ -1,135 +1,149 @@
-2018-12-26 14:41:26,605 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 5428 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 14:41:26,610 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 18:36:22,195 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 4840 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 18:36:22,199 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 18:38:07,888 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 4612 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 18:38:07,891 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 18:42:55,163 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 7284 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 18:42:55,166 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 18:45:30,357 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 424 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 18:45:30,360 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 18:47:05,810 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 2608 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 18:47:05,813 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 18:49:36,110 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 10556 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 18:49:36,113 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 18:49:39,724 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 4.99 seconds (JVM running for 6.046)
-2018-12-26 20:20:30,168 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 10556 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 20:20:30,168 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 20:20:31,067 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.939 seconds (JVM running for 5457.4)
-2018-12-26 20:22:17,236 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 13136 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 20:22:17,242 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 20:22:20,749 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 4.236 seconds (JVM running for 5.329)
-2018-12-26 20:52:20,359 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 13136 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 20:52:20,360 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 20:52:21,402 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 1.089 seconds (JVM running for 1805.982)
-2018-12-26 21:02:35,628 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 13136 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:02:35,628 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:02:50,065 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 15700 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:02:50,068 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:02:53,882 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 4.471 seconds (JVM running for 5.679)
-2018-12-26 21:05:38,495 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 15700 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:05:38,495 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:09:15,355 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 15700 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:09:15,356 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:09:16,240 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.925 seconds (JVM running for 388.037)
-2018-12-26 21:11:40,288 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:11:40,310 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:11:43,452 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 3.84 seconds (JVM running for 4.863)
-2018-12-26 21:13:08,565 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:13:08,565 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:13:09,585 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 1.062 seconds (JVM running for 90.996)
-2018-12-26 21:13:11,368 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:13:11,368 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:13:12,252 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.919 seconds (JVM running for 93.662)
-2018-12-26 21:14:52,640 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:14:52,640 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:14:53,321 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.718 seconds (JVM running for 194.731)
-2018-12-26 21:18:35,034 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:18:35,035 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 21:18:35,035 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:18:35,680 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.678 seconds (JVM running for 417.091)
-2018-12-26 21:18:43,123 [http-nio-8080-exec-10] DEBUG c.e.x.controller.UserController 26 - Id 为:12345
-2018-12-26 21:22:19,200 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:22:19,200 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 21:22:19,201 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:22:19,919 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.751 seconds (JVM running for 641.33)
-2018-12-26 21:23:37,991 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:23:37,992 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 21:23:37,992 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:23:38,787 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.83 seconds (JVM running for 720.198)
-2018-12-26 21:23:56,596 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:23:56,596 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 21:23:56,596 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:23:57,372 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.813 seconds (JVM running for 738.782)
-2018-12-26 21:56:34,151 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:56:34,152 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 21:56:34,153 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:56:34,752 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.64 seconds (JVM running for 2696.162)
-2018-12-26 21:59:20,229 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 21:59:20,229 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 21:59:20,230 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 21:59:20,821 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.631 seconds (JVM running for 2862.232)
-2018-12-26 22:02:23,589 [http-nio-8080-exec-1] DEBUG c.e.x.controller.UserController 26 - Id 为:12345
-2018-12-26 22:02:26,299 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 22:02:26,299 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 22:02:26,300 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 22:02:26,921 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.654 seconds (JVM running for 3048.332)
-2018-12-26 22:02:28,690 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 22:02:28,690 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 22:02:28,690 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 22:02:29,304 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.644 seconds (JVM running for 3050.714)
-2018-12-26 22:02:32,386 [http-nio-8080-exec-10] DEBUG c.e.x.controller.UserController 27 - Id 为:12345
-2018-12-26 22:08:46,382 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 22:08:46,382 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 22:08:46,382 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 22:08:47,191 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.837 seconds (JVM running for 3428.601)
-2018-12-26 22:09:02,019 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 22:09:02,019 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 22:09:02,019 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 22:09:02,777 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.786 seconds (JVM running for 3444.188)
-2018-12-26 22:29:17,769 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 22:29:17,771 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 22:29:17,771 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 22:29:18,361 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.632 seconds (JVM running for 4659.772)
-2018-12-26 22:31:48,758 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 22:31:48,759 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 22:31:48,759 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 22:31:49,393 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.669 seconds (JVM running for 4810.804)
-2018-12-26 22:48:44,164 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 22:48:44,165 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 22:48:44,165 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 22:48:44,759 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.623 seconds (JVM running for 5826.17)
-2018-12-26 23:05:18,980 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 23:05:18,981 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 23:05:18,981 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 23:05:19,965 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 1.014 seconds (JVM running for 6821.376)
-2018-12-26 23:20:28,985 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 23:20:28,985 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 23:20:28,985 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 23:20:29,706 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.752 seconds (JVM running for 7731.116)
-2018-12-26 23:20:35,592 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 23:20:35,593 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 23:20:35,593 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 23:20:36,475 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.909 seconds (JVM running for 7737.886)
-2018-12-26 23:29:56,279 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 11388 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 23:29:56,280 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 23:29:56,280 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 23:29:57,395 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 1.147 seconds (JVM running for 8298.805)
-2018-12-26 23:30:14,285 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 19696 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 23:30:14,289 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 23:30:14,290 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 23:30:18,325 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 5.133 seconds (JVM running for 6.341)
-2018-12-26 23:32:30,651 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 19696 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 23:32:30,652 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 23:32:30,652 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 23:32:32,614 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 19696 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 23:32:32,615 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 23:32:32,615 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 23:32:33,264 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.691 seconds (JVM running for 141.281)
-2018-12-26 23:39:14,631 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 19696 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 23:39:14,632 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 23:39:14,633 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 23:39:17,669 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 19696 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
-2018-12-26 23:39:17,669 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
-2018-12-26 23:39:17,669 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
-2018-12-26 23:39:19,010 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 1.377 seconds (JVM running for 547.028)
+2018-12-28 14:39:29,604 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 14:39:29,624 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 14:39:29,624 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 14:39:33,489 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 5.309 seconds (JVM running for 6.959)
+2018-12-28 14:40:29,857 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 14:40:29,857 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 14:40:29,857 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 14:40:31,249 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 1.475 seconds (JVM running for 64.72)
+2018-12-28 14:41:35,634 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 14:41:35,634 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 14:41:35,634 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 14:41:36,597 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.998 seconds (JVM running for 130.068)
+2018-12-28 14:41:38,653 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 14:41:38,653 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 14:41:38,653 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 14:41:39,656 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 1.147 seconds (JVM running for 133.127)
+2018-12-28 14:41:45,288 [http-nio-8080-exec-1] DEBUG c.e.x.controller.UserController 24 - 获取所有user
+2018-12-28 14:41:45,323 [http-nio-8080-exec-1] DEBUG c.e.x.dao.UserDao.getUsers 159 - ==>  Preparing: select * from user 
+2018-12-28 14:41:45,355 [http-nio-8080-exec-1] DEBUG c.e.x.dao.UserDao.getUsers 159 - ==> Parameters: 
+2018-12-28 14:41:45,389 [http-nio-8080-exec-1] DEBUG c.e.x.dao.UserDao.getUsers 159 - <==      Total: 1
+2018-12-28 14:49:45,332 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 14:49:45,332 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 14:49:45,332 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 14:49:46,502 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 1.208 seconds (JVM running for 619.973)
+2018-12-28 14:49:51,357 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 14:49:51,357 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 14:49:51,357 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 14:49:52,055 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.747 seconds (JVM running for 625.525)
+2018-12-28 14:51:28,245 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 14:51:28,245 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 14:51:28,245 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 14:51:28,942 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.73 seconds (JVM running for 722.412)
+2018-12-28 14:53:35,096 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 14:53:35,096 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 14:53:35,096 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 14:53:37,066 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 14:53:37,066 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 14:53:37,066 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 14:53:37,675 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.639 seconds (JVM running for 851.146)
+2018-12-28 15:01:53,664 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:01:53,664 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:01:53,664 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:01:55,672 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:01:55,672 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:01:55,673 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:01:56,375 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.754 seconds (JVM running for 1349.846)
+2018-12-28 15:05:31,806 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:05:31,807 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:05:31,807 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:05:33,803 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:05:33,803 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:05:33,804 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:05:34,415 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.639 seconds (JVM running for 1567.885)
+2018-12-28 15:10:26,413 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:10:26,414 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:10:26,414 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:10:28,287 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:10:28,288 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:10:28,288 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:10:28,903 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.644 seconds (JVM running for 1862.374)
+2018-12-28 15:11:24,308 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:11:24,309 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:11:24,309 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:11:26,157 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:11:26,158 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:11:26,158 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:11:26,814 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.687 seconds (JVM running for 1920.285)
+2018-12-28 15:13:04,997 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:13:04,998 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:13:04,998 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:13:06,808 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:13:06,808 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:13:06,808 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:13:07,404 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.621 seconds (JVM running for 2020.874)
+2018-12-28 15:13:54,543 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:13:54,543 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:13:54,543 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:13:57,636 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:13:57,636 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:13:57,636 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:13:58,541 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.93 seconds (JVM running for 2072.012)
+2018-12-28 15:20:10,820 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:20:10,821 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:20:10,821 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:20:12,782 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:20:12,782 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:20:12,782 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:20:13,358 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.603 seconds (JVM running for 2446.828)
+2018-12-28 15:20:31,260 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:20:31,260 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:20:31,260 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:20:32,121 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.895 seconds (JVM running for 2465.591)
+2018-12-28 15:20:49,023 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:20:49,024 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:20:49,024 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:20:50,947 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:20:50,947 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:20:50,947 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:20:51,650 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.733 seconds (JVM running for 2485.121)
+2018-12-28 15:41:42,328 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:41:42,329 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:41:42,329 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:41:44,587 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:41:44,587 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:41:44,588 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:41:45,160 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.602 seconds (JVM running for 3738.63)
+2018-12-28 15:42:59,156 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:42:59,157 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:42:59,157 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:43:01,376 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 8056 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:43:01,377 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:43:01,378 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:43:02,036 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.689 seconds (JVM running for 3815.507)
+2018-12-28 15:47:05,743 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 10212 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:47:05,746 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:47:05,747 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:47:09,785 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 4.855 seconds (JVM running for 6.002)
+2018-12-28 15:47:54,014 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 10212 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:47:54,014 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:47:54,014 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:47:54,906 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.944 seconds (JVM running for 51.124)
+2018-12-28 15:53:44,497 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 10212 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:53:44,497 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:53:44,497 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:53:45,898 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 1.546 seconds (JVM running for 402.115)
+2018-12-28 15:58:17,107 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 10212 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 15:58:17,107 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 15:58:17,107 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 15:58:17,702 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.627 seconds (JVM running for 673.92)
+2018-12-28 15:58:23,565 [http-nio-8080-exec-1] DEBUG c.e.x.controller.UserController 36 - RegisterUserDto(id=201626204040, name=ly, password=666666)
+2018-12-28 15:58:23,566 [http-nio-8080-exec-1] DEBUG c.e.x.controller.UserController 37 - RegisterUserDto(id=null, name=null, password=2222)
+2018-12-28 15:58:33,432 [http-nio-8080-exec-2] DEBUG c.e.x.controller.UserController 36 - RegisterUserDto(id=201626204040, name=ly, password=666666)
+2018-12-28 15:58:33,432 [http-nio-8080-exec-2] DEBUG c.e.x.controller.UserController 37 - RegisterUserDto(id=null, name=null, password=2222)
+2018-12-28 16:02:29,665 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 10212 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 16:02:29,665 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 16:02:29,665 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 16:02:30,343 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.721 seconds (JVM running for 926.56)
+2018-12-28 16:02:47,821 [http-nio-8080-exec-1] DEBUG c.e.x.controller.UserController 36 - RegisterUserDto(id=null, name=null, password=null)
+2018-12-28 16:02:57,288 [http-nio-8080-exec-10] DEBUG c.e.x.controller.UserController 36 - RegisterUserDto(id=null, name=null, password=null)
+2018-12-28 16:05:59,026 [http-nio-8080-exec-7] DEBUG c.e.x.controller.UserController 36 - RegisterUserDto(id=201626204040, name=ytj, password=123456)
+2018-12-28 16:06:55,143 [http-nio-8080-exec-8] DEBUG c.e.x.controller.UserController 36 - RegisterUserDto(id=201626204040, name=ytj, password=2222,123456)
+2018-12-28 16:19:13,276 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 10212 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 16:19:13,276 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 16:19:13,276 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 16:19:14,244 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 1.008 seconds (JVM running for 1930.461)
+2018-12-28 16:19:17,070 [restartedMain] INFO  c.e.x.XianyuServerApplication 50 - Starting XianyuServerApplication on DESKTOP-QF1C6IU with PID 10212 (D:\Code\java\Spring\xianyu-server\out\production\classes started by YuTengjing in D:\Code\java\Spring\xianyu-server)
+2018-12-28 16:19:17,070 [restartedMain] DEBUG c.e.x.XianyuServerApplication 53 - Running with Spring Boot v2.2.0.BUILD-SNAPSHOT, Spring v5.1.4.BUILD-SNAPSHOT
+2018-12-28 16:19:17,070 [restartedMain] INFO  c.e.x.XianyuServerApplication 679 - The following profiles are active: dev
+2018-12-28 16:19:17,866 [restartedMain] INFO  c.e.x.XianyuServerApplication 59 - Started XianyuServerApplication in 0.828 seconds (JVM running for 1934.083)
